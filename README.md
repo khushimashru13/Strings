@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/khushimashru13/Strings/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/khushimashru13/Strings/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/khushimashru13/Strings/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushimashru13/Strings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/khushimashru13/Strings/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushimashru13/Strings/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/khushimashru13/Strings/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/khushimashru13/Strings/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/khushimashru13/Strings/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
