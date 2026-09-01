@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/khushimashru13/Strings/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/khushimashru13/Strings/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/khushimashru13/Strings/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/khushimashru13/Strings/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/khushimashru13/Strings/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/khushimashru13/Strings/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/khushimashru13/Strings/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/khushimashru13/Strings/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/khushimashru13/Strings/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/khushimashru13/Strings/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
