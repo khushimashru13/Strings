@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/khushimashru13/Strings/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/khushimashru13/Strings/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/khushimashru13/Strings/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushimashru13/Strings/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/khushimashru13/Strings/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/khushimashru13/Strings/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/khushimashru13/Strings/tree/master/0072-edit-distance) |
 ## Recursion
 |  |
 | ------- |
