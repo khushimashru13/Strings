@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/khushimashru13/Strings/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/khushimashru13/Strings/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/khushimashru13/Strings/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/khushimashru13/Strings/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/khushimashru13/Strings/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/khushimashru13/Strings/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/khushimashru13/Strings/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/khushimashru13/Strings/tree/master/0091-decode-ways) |
 ## Recursion
 |  |
 | ------- |
