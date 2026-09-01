@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/khushimashru13/Strings/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/khushimashru13/Strings/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/khushimashru13/Strings/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/khushimashru13/Strings/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/khushimashru13/Strings/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/khushimashru13/Strings/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/khushimashru13/Strings/tree/master/0132-palindrome-partitioning-ii) |
 ## Recursion
 |  |
 | ------- |
