@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/khushimashru13/Strings/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/khushimashru13/Strings/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/khushimashru13/Strings/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/khushimashru13/Strings/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushimashru13/Strings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/khushimashru13/Strings/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/khushimashru13/Strings/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/khushimashru13/Strings/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
