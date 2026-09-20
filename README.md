@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushimashru13/Strings/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/khushimashru13/Strings/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/khushimashru13/Strings/tree/master/0044-wildcard-matching) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushimashru13/Strings/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/khushimashru13/Strings/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/khushimashru13/Strings/tree/master/0043-multiply-strings) |
 ## Backtracking
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushimashru13/Strings/tree/master/0126-word-ladder-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/khushimashru13/Strings/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
